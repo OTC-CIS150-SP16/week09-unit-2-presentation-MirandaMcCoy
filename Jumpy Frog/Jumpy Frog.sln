@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{607B7566-5B92-4A5E-6FEE-612326A53E4E}") = "Jumpy Frog", "Assembly-CSharp.csproj", "{2CB993BD-51F7-5A7E-627E-3CF5BE4CE348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB993BD-51F7-5A7E-627E-3CF5BE4CE348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB993BD-51F7-5A7E-627E-3CF5BE4CE348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB993BD-51F7-5A7E-627E-3CF5BE4CE348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB993BD-51F7-5A7E-627E-3CF5BE4CE348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
